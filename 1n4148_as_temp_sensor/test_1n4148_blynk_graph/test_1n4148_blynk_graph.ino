@@ -50,9 +50,9 @@
 	 *    * V2 = The reading difference in mV. 
 	 */
 
-	#define TEMP_REF	13.0 // C°
+	#define TEMP_REF	21.4 // C°
 
-	#define READ_REF_1V		522.0
+	#define READ_REF_1V		523.0
 	#define REF_1V			1.0	// volts
 
 	#define READ_REF_3V3	172.0

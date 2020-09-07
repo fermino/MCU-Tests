@@ -1,5 +1,8 @@
 	/**
-	 * This will use a 1N4148 plus a 33k resistor to calculate the temperature. 
+	 * Copyright 2020 Fermín Olaiz. 
+	 * https://github.com/fermino
+	 * 
+	 * A CHEAP temperature sensor using a 1N4148 diode and a 33Kohm resistor
 	 * 
 	 * So, I saw an example of this in the Arduino Create page and took
 	 * the concept and rewrote it from scratch. 
